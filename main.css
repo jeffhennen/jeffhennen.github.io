@@ -1,0 +1,14 @@
+.body {
+	margin-top: 50px;
+	margin-left: 300px;
+	margin-right: 400px;
+	margin-bottom: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-color: #CCCCCC;
+}
+.objective p {
+	margin-right: 225px;
+}
